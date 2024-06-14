@@ -5,6 +5,14 @@
 I'm a passionate software developer with a love for building elegant solutions to complex problems. My journey in the world of code began when I was 13.
 
 ## 🚀 Skills and Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 - **Languages:**   Proficient : C# .NET , Java , Python. 
                    Used: HTML , CSS , C , C++. 
 - **.NET Technologies:** WPF , MVVM Light, XAML , Data Binding , WinForms.
@@ -25,8 +33,9 @@ Here are some of my notable projects:
 
 ## 🏅 Badges
 <p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/your-username?style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=your-username" alt="GitHub Repo Views" />
+  <img src="https://img.shields.io/github/commit-activity/m/your-username/your-repo" alt="GitHub Commit Activity" />
+  <img src="https://img.shields.io/github/last-commit/your-username/your-repo" alt="GitHub Last Commit" />
 </p>
 
 ## 🎮 Interests
