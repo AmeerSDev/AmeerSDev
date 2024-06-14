@@ -35,6 +35,7 @@ Here are some of my notable projects:
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/ameersobih/)
+- [Gmail](mailto:ameersobih.dev@gmail.com)
 
 ## 🏅 Badges
 <p align="center">
