@@ -33,9 +33,9 @@ Here are some of my notable projects:
 
 ## 🏅 Badges
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username" alt="GitHub Repo Views" />
-  <img src="https://img.shields.io/github/commit-activity/m/your-username/your-repo" alt="GitHub Commit Activity" />
-  <img src="https://img.shields.io/github/last-commit/your-username/your-repo" alt="GitHub Last Commit" />
+  <img src="https://komarev.com/ghpvc/?username=ameersobih" alt="GitHub Repo Views" />
+  <img src="https://img.shields.io/github/commit-activity/m/ameersobih/profile" alt="GitHub Commit Activity" />
+  <img src="https://img.shields.io/github/last-commit/ameersobih/profile" alt="GitHub Last Commit" />
 </p>
 
 ## 🎮 Interests
